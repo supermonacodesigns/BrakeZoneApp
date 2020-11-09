@@ -9,23 +9,23 @@ The current version of the application supports simulation of  the following typ
 
 # Example App Images
 
-#####Parameter Input Screen:
+##### Parameter Input Screen:
 
-![screen 1](src/image/BZ.png)
+![screen 1](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/BZ.PNG)
 
 
-####Sheet 1 from calculations output:
+#### Sheet 1 from calculations output:
 
 ![screen 2](src/image/Summary.png)
 
-####Foundation brake example output data:
+#### Foundation brake example output data:
 
 ![screen 3](src/image/FoundationBrake.png)
 
 ![screen 4](src/image/Type0.png)
 
 
-####Example graphical output data:
+#### Example graphical output data:
 
 ![screen 5](src/image/Actuator.png)
 
