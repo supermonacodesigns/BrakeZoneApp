@@ -16,20 +16,20 @@ The current version of the application supports simulation of  the following typ
 
 ##### Sheet 1 from calculations output:
 
-![screen 2](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/Summary.png)
+![screen 2](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/Summary.PNG)
 
 ##### Foundation brake example output data:
 
-![screen 3](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/FoundationBrake.png)
+![screen 3](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/FoundationBrake.PNG)
 
-![screen 4](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/Type0.png)
+![screen 4](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/Type0.PNG)
 
 
 ##### Example graphical output data:
 
-![screen 5](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/Actuator.png)
+![screen 5](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/Actuator.PNG)
 
-![screen 6](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/ServiceBrakeGraph.png)
+![screen 6](https://github.com/supermonacodesigns/BrakeZoneApp/blob/master/src/image/ServiceBrakeGraph.PNG)
 
 
 
