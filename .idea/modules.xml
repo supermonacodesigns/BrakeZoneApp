@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BrakeZone.iml" filepath="$PROJECT_DIR$/BrakeZone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BrakeZoneApp.iml" filepath="$PROJECT_DIR$/BrakeZoneApp.iml" />
     </modules>
   </component>
 </project>
