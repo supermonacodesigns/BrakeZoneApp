@@ -4,8 +4,8 @@ BrakeZone is a Java application that automates the process of calculating and si
 The current version of the application supports simulation of  the following types of systems:
 
 * Unpowered Hydraulics (e.g. standard car or LCV)
-* Hydraulic Power Brake or 'HPB' (e.g https://www.wabco-customercentre.com/catalog/en/truck-bus-and-car/hydraulic-brake-systems/electro-hydraulic-brakes/hydraulic-abs-hpb)
-* Hydraulic pump + Brake valve system
+* Hydraulic Power Controller or 'HPB' (e.g https://www.wabco-customercentre.com/catalog/en/truck-bus-and-car/hydraulic-brake-systems/electro-hydraulic-brakes/hydraulic-abs-hpb)
+* Hydraulic pump + Controller valve system
 
 # Example App Images
 
